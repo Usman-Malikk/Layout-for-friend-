@@ -1,0 +1,33 @@
+
+.Services{
+}
+.service{
+display: flex;
+margin-top: 50px;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.aa{
+
+}
+.box1{
+    display: flex;
+    flex-direction: column;
+ margin: 25px 0px;
+    width: 236px;
+}
+.sericon{
+    margin-bottom: 30px;
+    color: purple;
+    font-size: 50px;
+}
+
+
+/* Scroll bar */
+
+.pp{
+
+    /* line-height: 25px;
+    font-size: medium;
+    margin-bottom: 60px; */
+}
